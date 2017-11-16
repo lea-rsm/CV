@@ -1,6 +1,10 @@
 ## Léa Rosamond
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am a former student at University of the Arts of London. Always being interested by code, I realized that I wanted to find a way to mix technology and art through code.
+My goal would be to join a team where I can acquire new knowledges in coding and practice through different project what I have already learn during my time at Makers Academy.
+I am deeply motivated and confident in my ability to learn quickly any technology.
+
+
 
 ## Skills
 
