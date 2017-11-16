@@ -59,12 +59,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 **BLACKBOX GALERIE & COTE MAGAZINE** (November 2016)    
 *Photographer for the event SHAPE, published in Cote Magazine*  
+
 **YATUS** (08.2017 to 10.2017)   
 *Hostess and Waitress in Food&Beverage*
+
 **LAWYER OFFICES CHAULMONTET & ASSOCIATES** (06.2014 to 08.2014)
 *Assistant Secretary*
+
 **MIGROS** (07.2013 to 11.2013)
 *Employee and cashier*
+
 **CHUV** (10.2009)
 *Internship with Dr. Cecile Cardinaux in urology department*  
 
