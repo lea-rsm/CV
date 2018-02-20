@@ -2,6 +2,7 @@
 
 [Skills](https://github.com/lea-rsm/CV/blob/master/CV.md#skills) | [Education](https://github.com/lea-rsm/CV/blob/master/CV.md#education) | [Accomplishments](https://github.com/lea-rsm/CV/blob/master/CV.md#accomplishments) | [Experience](https://github.com/lea-rsm/CV/blob/master/CV.md#experience)| [Interests](https://github.com/lea-rsm/CV/blob/master/CV.md#interests) | [Where to find me](https://github.com/lea-rsm/CV/blob/master/CV.md#where-else-to-find-me)| [Blog](https://medium.com/@team_processive/makers-academy-final-project-day-06-or-our-first-day-without-a-white-board-28c18033e7a8)
 
+Newly graduated from Makers Academy,
 I am a former student at University of the Arts of London. Always being interested by code, I realized that I wanted to find a way to mix technology and art through code.
 My goal would be to join a team where I can acquire new knowledges in coding and practice through different project what I have already learn during my time at Makers Academy.
 I am deeply motivated and confident in my ability to learn quickly any technology.
@@ -22,6 +23,13 @@ Passionate about anything related to creative domains, I was agreeably surprised
 Due to the variety in my studies and life experiences, I have developed skills to learn fast and efficiently to be able to quickly switch from projects to projects. And be able to focus on new demands from various companies whether it is in the fashion, design or technology industry.
 Self-learning has always been a big part of my education. I believe it has also taught me to feel confident about taking risks and stepping out of my comfort zone. As well as staying enthusiast for any new knowledge I can acquire.
 I am also keen of receiving any fearless feedbacks I can get. During my course at Makers Academy, I have learn that it is a very important point and it is by staying openminded and having introspection that you grow and improve.
+### Projects
+
+
+| Projects     | Description           | Tech Stack  | Testing  |
+| ------------- |-------------| -----|
+|[Posterpop!](https://github.com/lea-rsm/posterpop)       |   posterpop! is an app that uses text recognition to allow the user to photograph that poster and save the link for the event's website       | JavaScript ES6, Vue 2, Bootstrap Vue, NodeJs, Google Cloud Vision API, Google Cloud Firebase   | Mocha, Karma, Nightwatch, Selenium Web Driver, ESlint AirBnb, Lighthouse
+
 
 ### Education
 
@@ -40,6 +48,7 @@ Makers Academy is a three month, intensive and highly-selective coding bootcamp.
 
 #### Ceruleum School of Visual Arts
 * Foundation Degree in Visual Arts & Design
+
 
 ### Accomplishments
 
