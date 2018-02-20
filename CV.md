@@ -5,79 +5,85 @@ My goal would be to join a team where I can acquire new knowledges in coding and
 I am deeply motivated and confident in my ability to learn quickly any technology.
 
 
+### Skills
 
-## Skills
 
-#### This Skill
+#### Communication
+Working in the creative industry, has been a great asset for improving and refining my communication skills.
+The interaction with clients helped me.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Creativity
 
-- Experience
-- Achievements
-- Evidence
+#### Adaptability
 
-#### Another Skill
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+### Education
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Makers Academy (November 2017 - February 2018)
 
-## Accomplishments
+Makers Academy is a three month, intensive and highly-selective coding bootcamp.
+* Practices: OOP, TDD, MVC, REST
+* Languages: Ruby, JavaScript, HTML, CSS
+* Frameworks: Rails, Sinatra, Vue2, Bootstrap
+* Databases: PostgreSQL, Firebase
+* Testing frameworks: RSpec, Jasmine, Capybara, Mocha, Karma, Nightwatch, Truffle, Lighthouse
+* Principles: Agile, XP, Pairprogramming, Clean Code
 
-## Exhibition at Copeland Gallery (2016)
+#### University of Arts, London College of Communication
+* BA (Hons) Art Direction
+
+#### Ceruleum School of Visual Arts
+* Foundation Degree in Visual Arts & Design
+
+### Accomplishments
+
+#### Exhibition at Copeland Gallery (2016)
 
 - Pattern created as part of the UAL course, exposed in the gallery.
 
-## Joseph Show SS16 LFW
+#### Joseph Show SS16 LFW
 
 - Assisting the team backstage.
 
-## Education
 
-#### Makers Academy (20.11.2017 to 20.02.2018)
+### Experience
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+<dt>GRAPHIC DESIGNER FREELANCE</dt><dd>Lausanne, Switzerland, 2017 <br>
+Creating Flyers and Logo for various projects and companies</dd>
+<br>
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+<dt>YATUS WINEBAR</dt><dd>Vevey, Switzerland, 2017 <br>
+F&B Service</dd>
+<br>
 
-#### University of the Arts London (2015 - 2016)
 
-- BA in Art Direction
-- Year 1
+ <dt>BLACK BOX GALERIE & COTE MAGAZINE</dt>
+ <dd>Lausanne, Switzerland, 2016<br>
+Photographer for the event SHAPE, <br>
+published in Cote Magazine</dd>
+<br>
 
-#### Ceruleum School of Arts (2014-2015)
-- Foundation year in Fine Arts
+<dt>LAWYER OFFICES CHAULMONTET & ASSOCIATES</dt><dd>Lausanne, Switzerland,  2014 <br>Assistant Secretary</dd>
+<br>
 
-### University of Lausanne (2013-2014)
-- HEC Business School
 
-## Experience
 
-**BLACKBOX GALERIE & COTE MAGAZINE** (November 2016)    
-*Photographer for the event SHAPE, published in Cote Magazine*  
-
-**YATUS** (08.2017 to 10.2017)   
-*Hostess and Waitress in Food&Beverage*
-
-**LAWYER OFFICES CHAULMONTET & ASSOCIATES** (06.2014 to 08.2014)
-*Assistant Secretary*
-
-**MIGROS** (07.2013 to 11.2013)
-*Employee and cashier*
-
-**CHUV** (10.2009)
-*Internship with Dr. Cecile Cardinaux in urology department*  
-
-## Languages
+### Languages
 
 - French (mothertongue)
 - English (fluent)
 - Italian (good)
+
+
+### Interest
+
+* Cooking
+* Mindfulness: Yoga and Meditation
+* Academic Drawing and Screenprinting
+* Running
+
+### Where else to find me?
+[Github](https://github.com/lea-rsm)<br>
+[Linkedin](https://www.linkedin.com/in/léa-rosamond-b973a315a/)<br>
+[Instagram](https://www.instagram.com/lea_rsm/) <br>
+[Pinterest](https://www.pinterest.fr/leapaulinerose/)
