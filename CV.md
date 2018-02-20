@@ -14,7 +14,7 @@ Interactions with clients helped me improve to state clear and concise ideas abo
 Makers Academy has also been a proof of how communication is important within teams, through leading standups and retros, TDD and 1:1 with coaches. It facilitates the resolution of lots bugs and helps overcome challenges.
 
 #### Creativity
-Passionate about anything related to creative domains, I was agreeably surprised to see how creativity is important in Coding. It is a valuable asset to find different routes to write elegant and clear code. Therefore, being able to refactor it and improving it easily.
+Passionate about anything related to creative domains, I was agreeably surprised to see how creativity is important in Coding. It is a valuable asset to find different routes to write elegant and clear code. Therefore, being able to refactor it and improving it easily. Coming from a creative field has also taught me a lot about how coding is more and more related to art, through new app like [processing](http://processingjs.org), or VR art exhibition. And this really fascinates me.
 
 #### Adaptability & Self-growth
 Due to the variety in my studies and life experiences, I have developed skills to learn fast and efficiently to be able to quickly switch from projects to projects. And be able to focus on new demands from various companies whether it is in the fashion, design or technology industry.
@@ -89,6 +89,6 @@ published in Cote Magazine</dd>
 ### Where else to find me?
 [Github](https://github.com/lea-rsm)<br>
 [Linkedin](https://www.linkedin.com/in/léa-rosamond-b973a315a/)<br>
-[Medium](https://medium.com/@team_processive/makers-academy-final-project-day-06-or-our-first-day-without-a-white-board-28c18033e7a8)
+[Medium](https://medium.com/@team_processive/makers-academy-final-project-day-06-or-our-first-day-without-a-white-board-28c18033e7a8)<br>
 [Instagram](https://www.instagram.com/lea_rsm/) <br>
 [Pinterest](https://www.pinterest.fr/leapaulinerose/)
