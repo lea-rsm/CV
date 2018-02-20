@@ -10,12 +10,15 @@ I am deeply motivated and confident in my ability to learn quickly any technolog
 
 #### Communication
 Working in the creative industry, has been a great asset for improving and refining my communication skills.
-The interaction with clients helped me.
+The interaction with clients helped me improve to state clear and concise ideas about the projects I worked on.
+Makers Academy has also been a proof of how communication is important within teams, through leading standups and retros, TDD and 1:1 with coaches. It facilitates the resolution of lots bugs and helps overcome challenges.
 
 #### Creativity
+Passionate about anything related to creative domains, I was agreably surprised to see how creativity is important in Coding. It is a valuable asset to find different routes write elegant and clear code. Therefore, being able to refactor it and improving it easily.
 
 #### Adaptability
-
+Due to the variety in my studies and life experiences, I have developped skills to learn fast and efficiently to be able to quickly switch from projects to projects. And be able to focus on new project whether it is in the fashion, design or technology industry.
+Self-learning has always been a big part of my education. I believe it has also taught me to feel confident about taking risks and stepping out of my comfort zone. As well as staying enthusiast for any new knowledges I can acquire.
 
 ### Education
 
