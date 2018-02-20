@@ -1,5 +1,7 @@
 ## Léa Rosamond
 
+[Skills](https://github.com/lea-rsm/CV/blob/master/CV.md#skills) | [Education](https://github.com/lea-rsm/CV/blob/master/CV.md#education) | [Accomplishments](https://github.com/lea-rsm/CV/blob/master/CV.md#accomplishments) | [Experience](https://github.com/lea-rsm/CV/blob/master/CV.md#experience)| [Interests](https://github.com/lea-rsm/CV/blob/master/CV.md#interests) | [Where to find me](https://github.com/lea-rsm/CV/blob/master/CV.md#where-else-to-find-me)| [Blog](https://medium.com/@team_processive/makers-academy-final-project-day-06-or-our-first-day-without-a-white-board-28c18033e7a8)
+
 I am a former student at University of the Arts of London. Always being interested by code, I realized that I wanted to find a way to mix technology and art through code.
 My goal would be to join a team where I can acquire new knowledges in coding and practice through different project what I have already learn during my time at Makers Academy.
 I am deeply motivated and confident in my ability to learn quickly any technology.
@@ -79,7 +81,7 @@ published in Cote Magazine</dd>
 - Italian (good)
 
 
-### Interest
+### Interests
 
 * Cooking
 * Mindfulness: Yoga and Meditation
