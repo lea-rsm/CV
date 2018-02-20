@@ -25,9 +25,8 @@ Self-learning has always been a big part of my education. I believe it has also 
 I am also keen of receiving any fearless feedbacks I can get. During my course at Makers Academy, I have learn that it is a very important point and it is by staying openminded and having introspection that you grow and improve.
 ### Projects
 
-
-| Projects     | Description           | Tech Stack  | Testing  |
-| ------------- |-------------| -----|
+| Projects | Description | Tech Stack | Testing |
+|-------------|-------------|-------|-------|
 |[Posterpop!](https://github.com/lea-rsm/posterpop)       |   posterpop! is an app that uses text recognition to allow the user to photograph that poster and save the link for the event's website       | JavaScript ES6, Vue 2, Bootstrap Vue, NodeJs, Google Cloud Vision API, Google Cloud Firebase   | Mocha, Karma, Nightwatch, Selenium Web Driver, ESlint AirBnb, Lighthouse
 
 
