@@ -16,7 +16,7 @@ Interactions with clients helped me improve to state clear and concise ideas abo
 Makers Academy has also been a proof of how communication is important within teams, through leading standups and retros, TDD and 1:1 with coaches. It facilitates the resolution of lots bugs and helps overcome challenges.
 
 #### Creativity
-Passionate about anything related to creative domains, I was agreeably surprised to see how creativity is important in Coding. It is a valuable asset to find different routes to write elegant and clear code. Therefore, being able to refactor it and improving it easily. Coming from a creative field has also taught me a lot about how coding is more and more related to art, through new app like [processing](http://processingjs.org), or VR art exhibition. And this really fascinates me.
+Passionate about anything related to creative domains, I was agreeably surprised to see how creativity is important in Coding. It is a valuable asset to find different routes to write elegant and clear code. Therefore, being able to refactor it and improving it easily. Coming from a creative field has also taught me a lot about how coding is more and more related to art, through new apps like [processing](http://processingjs.org), or VR art exhibitions, for example. And this really fascinates me.
 
 #### Adaptability & Self-growth
 Due to the variety in my studies and life experiences, I have developed skills to learn fast and efficiently to be able to quickly switch from projects to projects. And be able to focus on new demands from various companies whether it is in the fashion, design or technology industry.
