@@ -101,4 +101,3 @@ published in Cote Magazine</dd>
 [Linkedin](https://www.linkedin.com/in/léa-rosamond-b973a315a/)<br>
 [Medium](https://medium.com/@team_processive/makers-academy-final-project-day-06-or-our-first-day-without-a-white-board-28c18033e7a8)<br>
 [Instagram](https://www.instagram.com/lea_rsm/) <br>
-[Pinterest](https://www.pinterest.fr/leapaulinerose/)
