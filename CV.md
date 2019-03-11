@@ -62,14 +62,24 @@ Makers Academy is a three month, intensive and highly-selective coding bootcamp.
 
 ### Experience
 
+<dt>NEWS UK VIA ECS</dt><dd>London, UK, 2018 <br>
+ Software Development Engineer in Test</dd> <br>
+ 
+ - Contributing to test automation setting up frameworks on multiple 
+application types and platforms: Web, Mobile, Desktop 
+- Coding automated test scripts, in accordance with industry-standard bestpractice 
+- Contributing to the planning, design and implementation of test automation
+frameworks using best practice techniques and principles
+- Business facing/working closely with the project team 
+<br>
+
 <dt>GRAPHIC DESIGNER FREELANCE</dt><dd>Lausanne, Switzerland, 2017 <br>
 Creating Flyers and Logo for various projects and companies</dd>
 <br>
 
 <dt>YATUS WINEBAR</dt><dd>Vevey, Switzerland, 2017 <br>
 F&B Service</dd>
-<br>
-
+<br> 
 
  <dt>BLACK BOX GALERIE & COTE MAGAZINE</dt>
  <dd>Lausanne, Switzerland, 2016<br>
